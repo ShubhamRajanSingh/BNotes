@@ -2,11 +2,16 @@
 This a Android based Chat application created with java.
 
 # Features
-  * 1.Send friend Request.                                                                         
-  * 2.Chat one to one.                                                                             
-  * 3.Create a Group.                                                                               
-  * 4.See who is online.                                                                          
-  * 5.Last seen of a person
+  * Send friend Request.                                                                         
+  * Chat one to one.                                                                             
+  * Create a Group.                                                                               
+  * See who is online.                                                                          
+  * Last seen of a person
   
 # Description
+  This is a chat application where  in your can also send and receive friend request and  many such features. I have used some third party api
+  to create the circular iamge view.I have used Th Firebase Database to store the data like messages and images,etc. In this application you can also form groups and have a grcoup   chat.
+
+# Note
+  If you are using Android 10 then please don't install this application on it because it might cause some problems.
   
