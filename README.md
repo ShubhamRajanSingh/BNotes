@@ -1,18 +1,14 @@
 
 # BNotes
-This a Android based Chat application created with java.
+This a Android based Notes keeping application created with java.
 
 # Features
-  * Send friend Request.                                                                         
-  * Chat one to one.                                                                             
-  * Create a Group.                                                                               
-  * See who is online.                                                                          
-  * Last seen of a person
+  * Add Notes.                                                                         
+  * Image Based Lock.                                                                             
+  
   
 # Description
-  This is a chat application where  in your can also send and receive friend request and  many such features. I have used some third party api
-  to create the circular iamge view.I have used Th Firebase Database to store the data like messages and images,etc. In this application you can also form groups and have a grcoup   chat.I took help of some Youtube channels to create this project.
+ This is a Android Based Notes keeping application.It also have a image based password which means you can select four points on a image to set a lock on the app.
+ it's really an awesome feature
 
-# Note
-  If you are using Android 10 then please don't install this application on it because it might cause some problems.
   
