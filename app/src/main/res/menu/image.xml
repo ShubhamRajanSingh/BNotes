@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:id="@+id/menu_passpoints_reset"
+         android:icon="@drawable/ic_launcher1_background"
+               android:title="@string/reset_passpoints"
+         />
+     <item android:id="@+id/set_Image"
+         android:icon="@drawable/ic_launcher1_background"
+         android:title="@string/set_image"
+
+     />
+     <item android:id="@+id/Default_image"
+         android:icon="@drawable/ic_launcher1_background"
+         android:title="@string/set_default_image"
+         />
+</menu>

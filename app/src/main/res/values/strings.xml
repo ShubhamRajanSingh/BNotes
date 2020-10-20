@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BNotes</string>
+    <string name="edit_text_hint">Enter the text</string>
+    <string name="toast_cant_save">Unable to save note.</string>
+    <string name="toast_cant_load">Unable to load note.</string>
+    <string name="title_activity_image">BNotes</string>
+    <string name="password_image">Password Image</string>
+    <string name="storing_data">Saving points</string>
+    <string name="reset_passpoints">Reset PassPoints</string>
+    <string name="set_image">Set Image</string>
+    <string name="set_default_image">Set Default Image</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+
+
+</resources>
